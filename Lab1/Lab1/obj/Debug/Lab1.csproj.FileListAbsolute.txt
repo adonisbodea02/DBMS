@@ -1,0 +1,10 @@
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\bin\Debug\Lab1.exe.config
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\bin\Debug\Lab1.exe
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\bin\Debug\Lab1.pdb
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\obj\Debug\Lab1.exe
+A:\UBB\2nd_Year\DBMS\Lab1\Lab1\obj\Debug\Lab1.pdb

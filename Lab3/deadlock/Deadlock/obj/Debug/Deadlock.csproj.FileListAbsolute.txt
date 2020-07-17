@@ -1,0 +1,7 @@
+A:\UBB\2nd_Year\DBMS\Lab3\Deadlock\Deadlock\bin\Debug\Deadlock.exe.config
+A:\UBB\2nd_Year\DBMS\Lab3\Deadlock\Deadlock\bin\Debug\Deadlock.exe
+A:\UBB\2nd_Year\DBMS\Lab3\Deadlock\Deadlock\bin\Debug\Deadlock.pdb
+A:\UBB\2nd_Year\DBMS\Lab3\Deadlock\Deadlock\obj\Debug\Deadlock.csprojAssemblyReference.cache
+A:\UBB\2nd_Year\DBMS\Lab3\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+A:\UBB\2nd_Year\DBMS\Lab3\Deadlock\Deadlock\obj\Debug\Deadlock.exe
+A:\UBB\2nd_Year\DBMS\Lab3\Deadlock\Deadlock\obj\Debug\Deadlock.pdb
